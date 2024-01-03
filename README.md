@@ -10,6 +10,13 @@
   - [Configuring On-premises Active Directory within Azure VMs](#)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](#)
 
+<h2>👨‍💻 Web Development Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [Pokemon Card Matching Project](#)
+  - [Movie Database Project](#)
+  - [React Restaurant Project](#)
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Kris | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

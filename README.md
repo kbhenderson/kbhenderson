@@ -17,7 +17,7 @@
   - [Movie Database Project](https://codemans-movies-list.netlify.app)
   - [HTML CSS Email Project](https://codemans-email-template-2.netlify.app)
 
-<h2>🌐 Computer / Electronic Repairs:</h2>
+<h2>🕹️ Computer / Electronic Repairs:</h2>
 
 - <b> Various PC/Electronic Repair </b>
   - [Content currently being updated...](#)

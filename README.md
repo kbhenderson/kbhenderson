@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](#)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](#)
 
-<h2>👨‍💻 Web Development Projects:</h2>
+<h2>🕸️ Web Development Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Pokemon Card Matching Project](https://codemans-pokemon-match.netlify.app)

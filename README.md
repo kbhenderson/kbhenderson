@@ -17,6 +17,13 @@
   - [Movie Database Project](https://codemans-movies-list.netlify.app)
   - [HTML CSS Email Project](https://codemans-email-template-2.netlify.app)
 
+<h2>🌐 Computer / Electronic Repairs:</h2>
+
+- <b> Various PC/Electronic Repair </b>
+  - [Content currently being updated...](#)
+  - [Please be patient as content is being uploaded...](#)
+  - [Thanks for waiting uploading in a little while...](#)
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Kris | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

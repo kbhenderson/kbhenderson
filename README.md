@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kris, an <a href="https://www.linkedin.com/in/kris-henderson-60a4a9260">IT Professional | Computer Repair Tech | Web Developer </a>☺</h1>
+<h1>Hi, I'm Kris, an <a href="https://www.linkedin.com/in/kris-henderson-60a4a9260">IT Professional | Computer Repair Tech | Web Developer </a>🫡</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 

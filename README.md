@@ -13,9 +13,9 @@
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [Pokemon Card Matching Project](#)
-  - [Movie Database Project](#)
-  - [React Restaurant Project](#)
+  - [Pokemon Card Matching Project](https://codemans-pokemon-match.netlify.app)
+  - [Movie Database Project](https://codemans-movies-list.netlify.app)
+  - [HTML CSS Email Project](https://codemans-email-template-2.netlify.app)
 
 <h2>🤳Connect with me:</h2>
 
